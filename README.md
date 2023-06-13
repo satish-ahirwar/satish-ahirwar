@@ -1,7 +1,5 @@
 
-✨ _special_ ✨ repository because its `README.md` (this file) 
-### Hi there 👋, I'm Satish Ahirwar ![](https://avatars.githubusercontent.com/u/48453902?v=4)
-
+### Hi there 👋, I'm Satish Ahirwar ![]
 ## I am Backend Developer
 
 - 🌍 I'm based in Pune, India
