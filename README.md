@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm Satish Ahirwar ![]
+### Hi there 👋, I'm Satish Ahirwar.
 ## I am Backend Developer
 
 - 🌍 I'm based in Pune, India
